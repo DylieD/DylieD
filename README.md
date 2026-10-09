@@ -20,6 +20,12 @@ Most of this work lives in private repositories owned by the Vellvii organisatio
 
 Web developer, junior database administrator and data engineer before moving into a CTO role. Public examples of earlier work: [ETLProcess_project](https://github.com/DylieD/ETLProcess_project), an ETL pipeline on AdventureWorks2022.
 
+## Portfolio sites
+
+[My portfolio](https://dylan-jonker-ascent.vercel.app)
+
+[A portfolio I built for a friend](https://adriano-catalano-746.vercel.app)
+
 ## Contact
 
 dylanjonker723@gmail.com | [LinkedIn](https://www.linkedin.com/in/dylan-jonker)
