@@ -15,7 +15,7 @@ Based in South Africa 🇿🇦 and moving to Tbilisi, Georgia 🇬🇪 in 2027.
 [![Vellvii](https://img.shields.io/badge/Vellvii-CTO%20%26%20COO-2E7D5B?style=for-the-badge)](https://www.vellvii.com)
 [![Email](https://img.shields.io/badge/Email-dylanjonker723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanjonker723@gmail.com)
 
-[🌿 Vellvii](#-vellvii) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🌍 Beyond code](#-beyond-code) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
+[🌿 Vellvii](#-vellvii) · [🤖 AI](#-ai-forward) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🌍 Beyond code](#-beyond-code) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
 
 </div>
 
@@ -34,6 +34,18 @@ Based in South Africa 🇿🇦 and moving to Tbilisi, Georgia 🇬🇪 in 2027.
 📱 **The app:** a native Swift app for Vellvii.
 
 [![Visit Vellvii](https://img.shields.io/badge/Visit-vellvii.com-2E7D5B?style=for-the-badge)](https://www.vellvii.com)
+
+## 🤖 AI-forward
+
+I'm AI-first in how I build and how I run things, and I'm proficient with the tools driving this shift.
+
+🧠 **In my workflow:** AI is part of how I design, build, debug and document, so I move faster without cutting corners.
+
+⚙️ **In operations:** internal tooling and automation that handle repetitive work and keep watch on social channels.
+
+🔍 **With judgement:** I'm comfortable directing and reviewing AI-generated work, and I know when to trust it and when to verify.
+
+🚀 **Always current:** I keep up with new models and tooling as the space moves.
 
 ## 🧗 Things I've built
 
