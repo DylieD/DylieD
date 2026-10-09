@@ -8,12 +8,14 @@ CTO and COO at [Vellvii](https://github.com/Vellvii), a premium wellness brand s
 
 Based in South Africa 🇿🇦 and moving to Tbilisi, Georgia 🇬🇪 in 2027.
 
+*Keep pushing forward.* 🧗
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-dylan--jonker--ascent-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dylan-jonker-ascent.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dylan--jonker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jonker/)
 [![Vellvii](https://img.shields.io/badge/Vellvii-CTO%20%26%20COO-2E7D5B?style=for-the-badge)](https://github.com/Vellvii)
 [![Email](https://img.shields.io/badge/Email-dylanjonker723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanjonker723@gmail.com)
 
-[⚡ Work](#-what-i-work-on) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
+[⚡ Work](#-what-i-work-on) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🌍 Beyond code](#-beyond-code) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
 
 </div>
 
@@ -49,6 +51,20 @@ Interactive 3D, client sites and data work. The sites are live, so go ahead and 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
+
+## 🌍 Beyond code
+
+🧗 **Climbing:** indoors and outdoors, with outdoor days at Boven Adventures.
+
+⛺ **Camping:** part of the mix whenever I can get outside.
+
+🥋 **BJJ and MMA:** big fan of both.
+
+🏍️ **Bikes:** if it has two wheels, I'm interested.
+
+💍 **Engaged:** planning the next big adventure with my fiancée.
+
+🌐 **Digital nomad life from 2027:** we're hitting the road to travel the world and work from anywhere.
 
 ## 🐍 Contribution snake
 
