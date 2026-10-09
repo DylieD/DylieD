@@ -4,7 +4,7 @@
 
 ### 🚀 Building the tech behind a premium wellness brand
 
-CTO and COO at [Vellvii](https://github.com/Vellvii), a premium wellness brand scaling into the U.S. market.
+CTO and COO at [Vellvii](https://www.vellvii.com), a premium wellness brand scaling into the U.S. market.
 
 Based in South Africa 🇿🇦 and moving to Tbilisi, Georgia 🇬🇪 in 2027.
 
@@ -12,26 +12,28 @@ Based in South Africa 🇿🇦 and moving to Tbilisi, Georgia 🇬🇪 in 2027.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dylan--jonker--ascent-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://dylan-jonker-ascent.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dylan--jonker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-jonker/)
-[![Vellvii](https://img.shields.io/badge/Vellvii-CTO%20%26%20COO-2E7D5B?style=for-the-badge)](https://github.com/Vellvii)
+[![Vellvii](https://img.shields.io/badge/Vellvii-CTO%20%26%20COO-2E7D5B?style=for-the-badge)](https://www.vellvii.com)
 [![Email](https://img.shields.io/badge/Email-dylanjonker723%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanjonker723@gmail.com)
 
-[⚡ Work](#-what-i-work-on) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🌍 Beyond code](#-beyond-code) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
+[🌿 Vellvii](#-vellvii) · [🧗 Built](#-things-ive-built) · [🧰 Stack](#-tech-i-use) · [🌍 Beyond code](#-beyond-code) · [🐍 Snake](#-contribution-snake) · [📬 Contact](#-contact)
 
 </div>
 
-## ⚡ What I work on
+## 🌿 Vellvii
 
-🌐 **Vellvii website:** React and TypeScript single-page app deployed on Vercel behind Cloudflare.
+**[vellvii.com](https://www.vellvii.com)** is the premium wellness brand I help lead as CTO and COO, and it's my most recent work. The code is private, so here is the high-level picture. Happy to walk through the architecture on a call.
 
-🛍️ **Storefront and operations:** Shopify store, integrations, fulfilment and analytics.
+🌐 **The website:** a fast, polished React and TypeScript site built with search visibility in mind.
 
-🛡️ **Infrastructure:** Cloudflare DNS and email security (SPF, DKIM, DMARC, BIMI) for a Google Workspace organisation.
+🛍️ **The shop:** Shopify behind the scenes, connected to fulfilment and analytics as the brand grows into the U.S. market.
 
-🤖 **AI and automation:** internal tooling and workflows for operations and social media monitoring.
+🔐 **The foundations:** DNS and email authentication set up properly so the brand is trusted and well protected.
 
-📱 **Mobile:** native Swift app for Vellvii.
+🤖 **The tooling:** AI and automation that keep day-to-day operations lean.
 
-Most of this work lives in private repositories owned by the Vellvii organisation. Happy to walk through the architecture on a call.
+📱 **The app:** a native Swift app for Vellvii.
+
+[![Visit Vellvii](https://img.shields.io/badge/Visit-vellvii.com-2E7D5B?style=for-the-badge)](https://www.vellvii.com)
 
 ## 🧗 Things I've built
 
